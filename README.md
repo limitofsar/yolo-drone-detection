@@ -7,7 +7,7 @@
 
 ## 📁 Структура проекта
 
-Notebooks/ — Jupyter notebooks с экспериментами и тестами YOLO
+Notebooks/ — Jupyter notebooks с обучением YOLO
 
 backend/ — Backend (FastAPI) для инференса модели
 
