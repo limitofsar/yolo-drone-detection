@@ -8,11 +8,17 @@
 ## 📁 Структура проекта
 
 Notebooks/ — Jupyter notebooks с экспериментами и тестами YOLO
+
 backend/ — Backend (FastAPI) для инференса модели
+
 frontend/ — Веб-интерфейс (Streamlit) для просмотра результатов
+
 model_weights/ — Предобученные веса YOLO моделей
+
 src/ — Основной код (загрузка модели)
+
 test/ — Примеры видео для тестирования
+
 requirements.txt — Список зависимостей проекта
 
 ---
