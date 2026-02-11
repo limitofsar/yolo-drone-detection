@@ -3,6 +3,7 @@
 Проект для детекции объектов с дронов с помощью моделей YOLO (Ultralytics).  
 Включает **backend API** (FastAPI) и **веб-интерфейс** (Streamlit) для визуализации результатов.
 
+[Презентация работы (видео на Google Диске)](https://drive.google.com/file/d/1U474hR9WQxQ4wpyUjoNYvD-lRRDAyggC/view?usp=drive_link)
 ---
 
 ## 📁 Структура проекта
